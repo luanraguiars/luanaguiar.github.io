@@ -13,4 +13,4 @@ citation: 'da Silva Ribeiro NM, Ferraz DD, Pedreira É, Pinheiro Í, da Silva Pi
 
 [Download paper here](files/daSilvaRibeiroEtAl.2015.pdf)
 
-Recommended citation: da Silva Ribeiro NM, Ferraz DD, Pedreira É, Pinheiro Í, da Silva Pinto AC, Neto MG, et al. &quot;Virtual rehabilitation via Nintendo Wii® and conventional physical therapy effectively treat post-stroke hemiparetic patients.&quot; <i>Top Stroke Rehabil</i>. 2015;22(4):299–305.
+<b>Recommended citation:</b> da Silva Ribeiro NM, Ferraz DD, Pedreira É, Pinheiro Í, da Silva Pinto AC, Neto MG, et al. &quot;Virtual rehabilitation via Nintendo Wii® and conventional physical therapy effectively treat post-stroke hemiparetic patients.&quot; <i>Top Stroke Rehabil</i>. 2015;22(4):299–305.
