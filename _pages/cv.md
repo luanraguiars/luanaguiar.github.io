@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Physical Therapy, Federal University of Bahia, 2015
+* M.S. in Medicine and Health, Federal University of Bahia, 2018
+* Ph.D in Neuroscience/Neuroimage, University of Sao Paulo, 2023 (expected)
+* MBA. in Data Science and Analytics, University of Sao Paulo, 2024 (expected)
 
 Work experience
 ======
