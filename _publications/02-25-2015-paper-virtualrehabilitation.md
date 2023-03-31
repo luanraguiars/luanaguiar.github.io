@@ -1,0 +1,24 @@
+---
+title: "Virtual rehabilitation via Nintendo Wii® and conventional physical therapy effectively treat post-stroke hemiparetic patients."
+collection: publications
+permalink: /publication/02-25-2015-paper-virtualrehabilitation.md
+excerpt: 'Objective: To compare the effect of a rehabilitation treatment using the Nintendo® Wii (NW) with conventional physical therapy (CPT) to improve the sensorimotor function and quality of life for post-stroke hemiparetic patients.'
+date: 02-25-2015 
+venue: 'Topics in Stroke Rehabilitation'
+paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+citation: 'da Silva Ribeiro NM, Ferraz DD, Pedreira É, Pinheiro Í, da Silva Pinto AC, Neto MG, et al. &quot;Virtual rehabilitation via Nintendo Wii® and conventional physical therapy effectively treat post-stroke hemiparetic patients.&quot; <i>Top Stroke Rehabil</i>. 2015;22(4):299–305.'
+---
+Background:
+The Nintendo® Wii is a simple and affordable virtual therapy alternative. It may be used at home, and it is a motivating recreational activity that provides continuous feedback. However, studies comparing the use of the Nintendo® Wii to conventional physical therapy are needed.
+Objective:
+To compare the effect of a rehabilitation treatment using the Nintendo® Wii (NW) with conventional physical therapy (CPT) to improve the sensorimotor function and quality of life for post-stroke hemiparetic patients.
+Methods:
+The present study applied a randomized, blind, and controlled clinical trial. In total, 30 patients with post-stroke hemiparesis were evaluated. A total of 15 patients were randomly assigned to each group. The SF-36 quality of life and Fugl–Meyer scales were used to evaluate the patients.
+Results:
+After treatment, the only variable that differed between the groups was the physical functioning domain of the SF-36 in the group that received conventional physical therapy. A significant difference was observed between both groups before and after treatment in terms of the following Fugl–Meyer scale items: passive movement and pain, motor function of the upper limbs (ULs), and balance. The CPT group also showed a significant difference with regard to their UL and lower limb (LL) coordination. The SF-36 scale analysis revealed a significant difference within both groups with regard to the following domains: physical functioning, role limitation due to physical aspects, vitality, and role limitation due to emotional aspects. The NW group also exhibited a significant difference in the mental health domain. The results indicate that both approaches improved the patients' performance in a similar manner.
+Conclusion:
+Virtual rehabilitation using the Nintendo Wii® and CPT both effectively treat post-stroke hemiparetic patients by improving passive movement and pain scores, motor function of the upper limb, balance, physical functioning, vitality, and the physical and emotional aspects of role functioning.
+
+[Download paper here](files/daSilvaRibeiroEtAl.2015.pdf)
+
+Recommended citation: da Silva Ribeiro NM, Ferraz DD, Pedreira É, Pinheiro Í, da Silva Pinto AC, Neto MG, et al. &quot;Virtual rehabilitation via Nintendo Wii® and conventional physical therapy effectively treat post-stroke hemiparetic patients.&quot; <i>Top Stroke Rehabil</i>. 2015;22(4):299–305.
