@@ -14,16 +14,10 @@ Education
 * B.S. (Hons) in Physical Therapy, Federal University of Bahia, 2015
 * M.S. in Medicine and Health, Federal University of Bahia, 2018
 * Ph.D in Neuroscience/Neuroimage, University of Sao Paulo, 2023 (expected)
-* MBA. in Data Science and Analytics, University of Sao Paulo, 2024 (expected)
+
 
 Work experience
-======
-* Researcher 
-  * Pio XII Foundation, Hospital of Love 
-  * May to December, Currently - Barretos/SP, Brazil
-  * Duties included: Cortical mapping with TMS and Pre and Post-Neurosurgery Clinical Evaluation
-  * Supervisor: Professor Taiza Edwards
-  
+====== 
 * Teaching Assistant, Neuroanatomy Course (RCG0212 - Medicine) 
   * Ribeirao Preto Medical School, University of Sao Paulo
   * Mar to Jul, 2022 - Ribeirao Preto/SP, Brazil
@@ -87,10 +81,6 @@ Service and leadership
 
 Scholarships and grants
 ====== 
-* Charlies Foundation for Research
-  * Project: Lateropulsion and verticality perception in a neurosurgical cohort of patients with brain tumours. 
-  * Amount requested: $ 29,823.10 (Australian dollar). 
-  * Role in this project: Principal Investigator 2. 
 * Santander Bank & USP, Sao Paulo - SP, Brazil.
   * Visiting Ph.D. Student. 
   * Received a R$20.000,00 internship grant to go to Perth - WA (Oct 2022-Nov 2022). 
