@@ -52,11 +52,8 @@ Skills
 ======
 * Unix Scripting
 * R
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
 * Python
-* Neuroimaging tools: FSL, SPM, LQT, BCBToolkit, MRtrix3, Dipy and UBO Detector.
+* Neuroimaging tools: FSL, SPM, MRtrix3, LQT, BCBToolkit, and UBO Detector.
 * Data Analyis
 
 Publications
@@ -64,23 +61,7 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
-
+ 
 Scholarships and grants
 ====== 
 * Santander Bank & USP, Sao Paulo - SP, Brazil.
@@ -94,10 +75,24 @@ Scholarships and grants
 * Bahia Research Foundation (FAPESB), Salvador - BA, Brazil
   * Undergraduate research assistant. Received a research scholarship of R$400,00 p/month for 10 months.
 
+Talks
+======
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+  
+Teaching
+======
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
 Volunteer experience 
 ====== 
 * Winter Course in Neurosciences: Organizer
   * Department of Neurosciences and Behavioral Sciences, University of Sao Paulo 
   * July 2019 - Ribeirao Preto/SP, Brazil 
  
-
+Full version for download
+======
+[Please click here](https://github.com/luanraguiars/luanaguiar.github.io/tree/master/files)
