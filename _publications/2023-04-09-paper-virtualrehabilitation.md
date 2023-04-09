@@ -1,9 +1,9 @@
 ---
 title: "Virtual rehabilitation via Nintendo Wii® and conventional physical therapy effectively treat post-stroke hemiparetic patients."
 collection: publications
-permalink: /publication/2015-02-25-paper-virtualrehabilitation.md
+permalink: /publication/2023-04-09-paper-virtualrehabilitation.md
 excerpt: 'Objective: To compare the effect of a rehabilitation treatment using the Nintendo® Wii (NW) with conventional physical therapy (CPT) to improve the sensorimotor function and quality of life for post-stroke hemiparetic patients.'
-date: 02-25-2015 
+date: 2023-04-09
 venue: 'Topics in Stroke Rehabilitation'
 paperurl: 'https://github.com/luanraguiars/luanaguiar.github.io/blob/master/files/daSilvaRibeiroEtAl.2015.pdf'
 citation: 'da Silva Ribeiro NM, Ferraz DD, Pedreira É, Pinheiro Í, da Silva Pinto AC, Neto MG, et al. &quot;Virtual rehabilitation via Nintendo Wii® and conventional physical therapy effectively treat post-stroke hemiparetic patients.&quot; <i>Top Stroke Rehabil</i>. 2015;22(4):299–305.'
