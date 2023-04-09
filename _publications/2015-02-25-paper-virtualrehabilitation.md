@@ -1,7 +1,7 @@
 ---
 title: "Virtual rehabilitation via Nintendo Wii® and conventional physical therapy effectively treat post-stroke hemiparetic patients."
 collection: publications
-permalink: /publication/02-25-2015-paper-virtualrehabilitation.md
+permalink: /publication/2015-02-25-paper-virtualrehabilitation.md
 excerpt: 'Objective: To compare the effect of a rehabilitation treatment using the Nintendo® Wii (NW) with conventional physical therapy (CPT) to improve the sensorimotor function and quality of life for post-stroke hemiparetic patients.'
 date: 02-25-2015 
 venue: 'Topics in Stroke Rehabilitation'
